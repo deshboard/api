@@ -1,0 +1,7 @@
+{
+    "name": "service.api.auth",
+    "request_path": "/auth",
+    "strip_request_path": true,
+    "preserve_host": false,
+    "upstream_url": "http://service.api.auth"
+}

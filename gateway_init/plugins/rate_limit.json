@@ -1,0 +1,8 @@
+{
+    "name": "rate-limiting",
+    "config": {
+        "second": 5,
+        "minute": 30,
+        "hour": 70
+    }
+}

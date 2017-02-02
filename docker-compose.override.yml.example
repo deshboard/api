@@ -1,0 +1,7 @@
+version: "2.1"
+
+services:
+    gateway:
+        ports:
+            - 8000:80
+            - 8001:8001

@@ -1,0 +1,6 @@
+{
+    "name": "correlation-id",
+    "config": {
+        "header_name": "Correlation-Id"
+    }
+}
